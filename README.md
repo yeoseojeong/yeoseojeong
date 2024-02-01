@@ -1,6 +1,17 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=200&section=header&text=Hi👋,I'm Seojeong Yeo.&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=200&section=header&text=Hi👋,I'm Seojeong Yeo.&fontSize=65">
+
+
+
+
+📫 : tjwjd8999@naver.com <br>
+
+
+<div align=center>
+
+
+</div>
 <!--
 **yeoseojeong/yeoseojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +29,9 @@ Here are some ideas to get you started:
 
 
 
-📫 : tjwjd8999@naver.com
+
+
+
+
+
+
