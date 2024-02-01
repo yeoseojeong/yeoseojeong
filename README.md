@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=200&section=header&text=Hi👋,I'm Seojeong Yeo.&fontSize=65" />
 <!--
 **yeoseojeong/yeoseojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
