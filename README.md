@@ -1,4 +1,4 @@
-![image](https://github.com/yeoseojeong/yeoseojeong/assets/121150215/5b9a4fc7-2bdb-4eb5-a871-2ae8762620c4)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=200&section=header&text=Hi👋,I'm Seojeong Yeo.&fontSize=65">
 
