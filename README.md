@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/matlab-047DA3?style=for-the-badge&logo=matlab&logoColor=white">
 <img src="https://img.shields.io/badge/simulink-008080?style=for-the-badge&logo=simulink&logoColor=white">
 <img src="https://img.shields.io/badge/AURIX-F46D01?style=for-the-badge&logo=AURIX&logoColor=white">
+<img src="https://img.shields.io/badge/python-047DA3?style=for-the-badge&logo=matlab&logoColor=white">
  
   <br>
 
